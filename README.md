@@ -1,4 +1,4 @@
-<img align="right" width="380" height="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtwZXB4N3N3M3h4NTg2YTM2dec2NDNnaXp5M3N3cnp0ZndpOHp2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Ay46vshD6C6A/giphy.gif">
+<img align="right" width="380" height="380" src="profile.png">
 
 # Welcome! 👋
 ## I'm Michelle! Let me present a little about myself :D
